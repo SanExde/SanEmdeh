@@ -1,0 +1,12 @@
+{
+  "ownerNumber": ["6282114680993@s.whatsapp.net"],
+  "ownerName": ["San ID"],
+  "botName": "San Bot",
+  "footer": "2022 © SANZ ID",
+  "sessionName": "session",
+  "pathimg": "./media/baymax.jpg",
+  "sticker": {
+        "packname": "Created By",
+        "author": "San ID"
+    }
+}
